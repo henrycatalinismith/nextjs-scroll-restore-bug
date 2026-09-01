@@ -1,0 +1,2 @@
+:HL["/nextjs-scroll-restore-bug/_next/static/chunks/0hgj2kdgvul9m.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"number","param":{"type":"d","key":"511","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"DkdNTaNojz6A8WIjHWPt4"}
